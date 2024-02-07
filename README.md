@@ -1,2 +1,2 @@
-# GitCourse
-For Learning git and github
+## GitCourse
+###For Learning git and github
